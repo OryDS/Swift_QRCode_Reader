@@ -12,4 +12,4 @@ You'll see how to Build your QR Code reader with AVFoundation library.
 
 Remember to use your personal device to run the project.
 
-More info here: [Save data on a web server from an iOS application](https://medium.com/@jkdory83/save-data-on-a-web-server-from-an-ios-application-d1d35196f65b)
+More info here: [Build your QR Code reader](https://medium.com/@jkdory83/build-your-qr-code-reader-7b89ca401e9a)
