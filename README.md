@@ -7,9 +7,9 @@
 
 Application written with Swift 5.2.5 on Xcode 11.6
 
-You'll see how to save data on a web server by sending some values from an iOS application to the MySQL database.
+You'll see how to Build your QR Code reader with AVFoundation library.
 
-Before using this iOS project, you need to have a development environment like MAMP or XAMPP to get a remote server with MySQL database and write the PHP script on it.
-Remember that you need to sort your server settings in the PHP file like Hosting, Username, Password, DB Name and Table.
+
+Remember to use your personal device to run the project.
 
 More info here: [Save data on a web server from an iOS application](https://medium.com/@jkdory83/save-data-on-a-web-server-from-an-ios-application-d1d35196f65b)
