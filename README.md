@@ -2,6 +2,7 @@
 # Swift_QRCode_Reader
 [![Swift](https://img.shields.io/badge/Swift-5.2.5-orange.svg)](https://swift.org)
 [![Xcode](https://img.shields.io/badge/Xcode-11.6-blue.svg)](https://developer.apple.com/xcode)
+[![QR](https://img.shields.io/static/v1?label=QR&message=Code&color=green)](https://en.wikipedia.org/wiki/QR_code)
 
 
 
