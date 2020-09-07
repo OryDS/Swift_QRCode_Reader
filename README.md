@@ -6,7 +6,7 @@
 
 
 
-Application written with Swift 5.2.5 on Xcode 11.6
+Application written with Swift 5.2.5 on Xcode 11.7
 
 You'll see how to Build your QR Code reader with AVFoundation library.
 
